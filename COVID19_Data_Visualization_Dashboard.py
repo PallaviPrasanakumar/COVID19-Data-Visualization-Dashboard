@@ -8,9 +8,9 @@ import json
 import plotly.express as px
 from datetime import datetime
 
-path_to_covid_confirmed_file=r"D:\CS649\Assignment\Assignment-2\assignment2Data\covid_confirmed_usafacts.csv"
-path_to_covid_deaths_file=r"D:\CS649\Assignment\Assignment-2\assignment2Data\covid_deaths_usafacts.csv"
-path_to_county_population_file=r"D:\CS649\Assignment\Assignment-2\assignment2Data\covid_county_population_usafacts.csv"
+path_to_covid_confirmed_file=r"C:\Users\palla\CS649\Assignment\Assignment-2\assignment2Data\covid_confirmed_usafacts.csv"
+path_to_covid_deaths_file=r"C:\Users\palla\CS649\Assignment\Assignment-2\assignment2Data\covid_deaths_usafacts.csv"
+path_to_county_population_file=r"C:\Users\palla\CS649\Assignment\Assignment-2\assignment2Data\covid_county_population_usafacts.csv"
 
 st.title("USA Countywise Covid-19 Data Analysis Dashboard")
 
